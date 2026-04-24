@@ -39,6 +39,7 @@ Welcome to my GitHub! I'm a Computer Enginnering graduate and I am passionate ab
 
 ### 🎨 Design & Multimedia
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-3D%20CAD-blue?style=for-the-badge&logo=freecad&logoColor=white)
 
 
 ## 🌟Interests
