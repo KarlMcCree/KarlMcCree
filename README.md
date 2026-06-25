@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm a Computer Enginnering graduate and I am passionate ab
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/temidayo-afolabi-33a1262a7
 - 📧 Email: afotemidayo500@gmail.com
-- 💻 Portfolio: https://karlmccree.github.io/portfolio/
+- 💻 Portfolio: https://portfolio-karl-mc-cree.vercel.app/
 - 🐦 Twitter (X): https://twitter.com/AfolabiTem89770
 
 <!---
