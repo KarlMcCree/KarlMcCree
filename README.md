@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Temidayo!
-Welcome to my GitHub! I'm a Computer Enginnering graduate and I am passionate about designing and building intelligent systems that solve real-world problems. My expertise lies in embedded systems, hardware-software integration, and developing innovative solutions using cutting-edge technologies.
+Welcome to my GitHub! I'm a Computer Engineering graduate and I am passionate about designing and building intelligent systems that solve real-world problems. My expertise lies in embedded systems, hardware-software integration, and developing innovative solutions using cutting-edge technologies.
 
 ## 🚀 About Me
 🌱 Continuously learning advanced tools such as STM32, ESP-IDF, FreeRTOS, and Altium Designer.
